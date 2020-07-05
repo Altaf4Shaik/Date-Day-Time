@@ -10,7 +10,7 @@ body
 
 {
 
-    font-size:15vw;
+    font-size:10vw;
 
     position:relative ;
 
@@ -50,9 +50,9 @@ body
 
     width: 284px;
 
-  padding: 10px 10px 20px 10px;
+  padding: 15px 15px 30px 15px;
 
-  border: 1px solid #BFBFBF;
+  border: 2px solid #BFBFBF;
 
   background-color: white;
 
