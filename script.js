@@ -54,7 +54,7 @@ function printTime() {
 
         da="0"+da;
 
-    } document.getElementById("time").innerHTML = hrs+":"+m+":"+s;
+    } document.getElementById("time").innerHTML = hrs+"h:"+m+"m:"+s"s";
 
     document.getElementById("date").innerHTML=da+" "+mon+" "+yr+","+day;
 
