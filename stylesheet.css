@@ -4,14 +4,14 @@ body
 }
 #time
 {
-    font-size:5vw;
+    font-size:4vw;
     position:relative ;
     text-align:center;
     
 }
 #date
 {
-    font-size:5vw;
+    font-size:vw;
     color:white; transform:translate(-50%,-50%);
      top: 50%; 
      left: 50%;
